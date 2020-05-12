@@ -4,10 +4,4 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+I just have to code stuff. Or mess with software. Try things, mix them up, and see what happens. Occasionally hardware as well. I will try to document what's going on. Some things might turn out to be interesting.

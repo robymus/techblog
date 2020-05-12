@@ -3,20 +3,15 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
-baseurl:          '/hydeout'
-                  # the optional subpath of your site, e.g. "/blog"
-                  # NB: This applies to all pages in your Jekyll site.
-                  # If you want to move just the blog index pages but keep
-                  # other pages at root, see the paginate_path and
-                  # sidebar_blog_link below.
+title:            robymus
+tagline:          'My tech journey'
+description:      'My tech journey'
+url:              https://blog.r2.io
+baseurl:          ''
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Robert Elek'
+  url:            https://github.com/robymus
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -51,13 +46,10 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 
-disqus:
-  shortname:      hydeout
+#disqus:
+#  shortname:      blogr2
 
-google_analytics: UA-100461102-1
+google_analytics: UA-347176-18
 
-# Used for Hydeout's own Github page. Feel free to remove for your
-# own fork.
-hydeout:
-  version:          4.1.0
-  repo:             https://github.com/fongandrew/hydeout
+github_link: https://github.com/robymus
+github_title: 'robymus on github'

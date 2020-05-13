@@ -91,7 +91,7 @@ On a side note, for Shaka Player to play HLS on platforms where HLS is not nativ
 
 ## Sources
 
-Test scripts / sources available at [https://github.com/robymus/nginx-shake-eme](https://github.com/robymus/nginx-shake-eme/tree/ad4bc13a4fa1db4df20011e3faaef94d8821c8c5).
+Test scripts / sources available at [https://github.com/robymus/nginx-shaka-eme](https://github.com/robymus/nginx-shaka-eme/tree/ad4bc13a4fa1db4df20011e3faaef94d8821c8c5).
 
 ## What's next
 

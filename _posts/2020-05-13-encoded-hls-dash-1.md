@@ -87,7 +87,7 @@ So having the the manifest file the key can easily be retrieved alongside the fr
 
 There is work to be done here. Maybe changing to encryption key URL to a token based one, which allows downloading only once.To be continued :)
 
-On a side note, for Shaka Player to play HLS on platforms where HLS is not natively supported, it requires (mux.js)[https://github.com/videojs/mux.js/] to be loaded before Shaka Player. It still doesn't supported AES-128 encrypted HLS though.
+On a side note, for Shaka Player to play HLS on platforms where HLS is not natively supported, it requires [mux.js](https://github.com/videojs/mux.js/) to be loaded before Shaka Player. It still doesn't supported AES-128 encrypted HLS though.
 
 ## Sources
 

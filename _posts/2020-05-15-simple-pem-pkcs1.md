@@ -2,7 +2,7 @@
 layout: post
 title: Simple Pem Keystore - PKCS#1 key support
 categories:
-  - coding-for-fun
+  - java
 tags:
   - Java
   - PKI

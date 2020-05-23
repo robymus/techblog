@@ -19,7 +19,7 @@ For this, I needed to include the http_auth_request module in nginx, so a I've c
 Setting up the things was quite straightforward from here, I've added a sub-location to the HLS location, with a request sent to an external service:
 
 ```
-	location /hls/ {
+    location /hls/ {
         vod hls;
         vod_secret_key "secret$vod_filepath";
         vod_hls_encryption_method aes-128;
@@ -35,7 +35,7 @@ Setting up the things was quite straightforward from here, I've added a sub-loca
             auth_request            /check_access;
             auth_request_set        $auth_status $upstream_status;
         }
-	}
+    }
 ```
 
 The only tricky part was to repeat the `vod hls` directive inside the sublocation as well, otherwise nginx treated it as a normal file. So this sublocation does a query to the /check_access internal (accessible only for internal requests inside Nginx) location, which is set up like this:

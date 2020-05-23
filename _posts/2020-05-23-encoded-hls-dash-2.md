@@ -58,7 +58,7 @@ As I'm planning to run the authorization services on a separate machine, not on 
 
 ## Sources
 
-Test scripts / sources available at [https://github.com/robymus/nginx-shaka-eme](https://github.com/robymus/nginx-shaka-eme/tree/5dbc5a7549fe95a68d8734a6fb5a2232000af7f8).
+Test scripts / sources available at [https://github.com/robymus/nginx-shaka-eme](https://github.com/robymus/nginx-shaka-eme/tree/e6f771a4a91f51362420e6280258ee25e7b24689).
 
 ## What's next?
 
